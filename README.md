@@ -11,6 +11,6 @@ Ada cara lain sebenernya untuk meng*include* file *.csv* menggunakan *Github Lar
 
 Oleh karena itu, file dan project ini juga dapat diakses melalui <a href="">link ini</a>. Jika berhasil untuk menggunakan LFS, maka repository ini akan di update kembali.
 
-Terima Kasih sebelumnya atas membagi waktu untuk membaca dan menilai project ini. Apabila kekurangan segala komentar akan dihargai. 
+Terima Kasih sebelumnya atas membagi waktu untuk membaca dan menilai project ini. Apabila terdapat kekurangan, segala komentar akan dihargai. 
 
 Terima Kasih.
