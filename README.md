@@ -10,7 +10,7 @@ Hasil kerja saya dapat dilihat dari file `capstone.ipynb`. Namun, seperti yang d
 
 Ada cara lain sebenernya untuk meng*include* file *.csv* menggunakan *Github Large File Storage* (LFS). Namun, setelah dicoba untuk digunakan, file tersebut tetap gagal untuk dipush kedalam repository.
 
-Oleh karena itu, file dan project ini juga dapat diakses melalui <a href="https://drive.google.com/drive/folders/1i-HNwAewmIBHfxHZDgTopfZ03JHlpcQD?usp=drive_link">link ini</a>. Jika berhasil untuk menggunakan LFS, maka repository ini akan di update kembali.
+Oleh karena itu, file, video penjelasan, dan project ini juga dapat diakses melalui <a href="https://drive.google.com/drive/folders/1i-HNwAewmIBHfxHZDgTopfZ03JHlpcQD?usp=drive_link">link ini</a>. Jika berhasil untuk menggunakan LFS, maka repository ini akan di update kembali.
 
 Terima Kasih sebelumnya atas membagi waktu untuk membaca dan menilai project ini. Apabila terdapat kekurangan, segala komentar akan dihargai. 
 
